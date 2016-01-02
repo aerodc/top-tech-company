@@ -1,0 +1,26 @@
+{
+  "name": "top-tech-company",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerodc/top-tech-company.git"
+  },
+  "keywords": [
+    "glassdoor",
+    "api"
+  ],
+  "author": "dixi liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aerodc/top-tech-company/issues"
+  },
+  "homepage": "https://github.com/aerodc/top-tech-company#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
