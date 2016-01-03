@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/aerodc/top-tech-company#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "mongoose": "^4.3.4",
+    "node-rest-client": "^1.5.1"
   }
 }
